@@ -2,8 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4fbe80a-f293-4757-b265-dcce28895e8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/variables/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthdays/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthdays/birthdays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthdays/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comparison/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comparison/compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comparison/compare2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comparison/forloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comparison/validateinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comparison/validateinput2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelReadWrite/Common_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelReadWrite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelReadWrite/readdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelReadWrite/writedata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guessgame/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guessgame/guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guessgame/magicgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory/checkinventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/myformula1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/myformula2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/pricing 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/pricing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulesDemo/pricingdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAll/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAll/operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAll/variable_datatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Area of plane Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Letter Grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Libary functions math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Reltn Op &amp; Boln Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Stack_Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Swapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/blackslash1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/guss_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/pattern_printing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Basic_Python/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Abstraction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Abstraction/abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Class &amp; object/Consructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Class &amp; object/Exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Class &amp; object/Method_Overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Class &amp; object/Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Class &amp; object/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Class &amp; object/class_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Inheritance/Example of inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Inheritance/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Inheritance/Types_of_inheritence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Inheritance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Magic_Methods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Magic_Methods/magic_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Magic_Methods/magic_methods (code).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Polymorphism/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Polymorphism/polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/File Handling/Reading &amp; writing a file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/File Handling/Try_Exception_Handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/File Handling/Try_Exception_handling_part(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/File Handling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/File Handling/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function (2)/Lamda_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function (2)/Map_filter function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function (2)/Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function (2)/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function (2)/zipfucntion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function/Debugging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function/Intrdc_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function/Range_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function/Return_value_from_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Function/xxargs and xxxargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/IF_Else/Else if_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/IF_Else/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/IF_Else/break_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/IF_Else/if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/IF_Else/innerif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Input/TypeCasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Input/UserInput2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Input/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/List/List_(1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/List/List_(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/List/List_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/List/List_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/List/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Loop/Loop_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Loop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Loop/for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Loop/while_lopp_SUM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Operators/Logical_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Operators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/Operators/ternaryoperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/String/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/String/formatted string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/String/name_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_anisulislam/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TryExcept/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TryExcept/tryexceptdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/inputvalidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/inputvalidation2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradingsystem/gradingcalculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gradingsystem/gradingcalculation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/demodictonary.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/demodictonary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/dictonary.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/dictonary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +129,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Class &amp; object/class_object.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -33,11 +145,20 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.list">
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Project_05\Python_anisulislam\Class_Object(Main)\Class &amp; object" />
+      <recent name="D:\Project\Project_05\Python_anisulislam\Basic_Python" />
+      <recent name="D:\Project\Project_05\Python_anisulislam\Class_Object\Inheritance" />
+      <recent name="D:\Project\Project_05\Python_anisulislam\IF_Else" />
+      <recent name="D:\Project\Project_05\Python_anisulislam\Operators" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.abstraction">
+    <configuration name="Example of inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project_05" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +166,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_anisulislam/Class_Object" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variables/list.py" />
+      <option name="SCRIPT_NAME" value="D:\Project\Project_05\Python_anisulislam\Class_Object\Inheritance\Example of inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_05" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_anisulislam/Class_Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Project\Project_05\Python_anisulislam\Class_Object\Inheritance\Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Method_Overriding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_05" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_anisulislam/Class_Object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_anisulislam/Class_Object/Method_Overriding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Types_of_inheritence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_05" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_anisulislam/Class_Object/Inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_anisulislam/Class_Object/Inheritance/Types_of_inheritence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_05" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Abstraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_anisulislam/Class_Object(Main)/Abstraction/abstraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.list" />
+        <item itemvalue="Python.abstraction" />
+        <item itemvalue="Python.Types_of_inheritence" />
+        <item itemvalue="Python.Example of inheritance" />
+        <item itemvalue="Python.Method_Overriding" />
+        <item itemvalue="Python.Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -106,5 +315,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/variables/demodictonary.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

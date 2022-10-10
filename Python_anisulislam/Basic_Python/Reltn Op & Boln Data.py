@@ -1,0 +1,7 @@
+print("1",30 > 20)
+print(30 < 20)
+print(30 >= 20)
+print(30 <= 20)
+print(30 == 20)
+print(30 != 20)
+print("Anis" == "Anis")
